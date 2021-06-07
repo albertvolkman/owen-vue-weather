@@ -1,0 +1,26 @@
+header h1 {
+  font-size: 48px;
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+
+input {
+  font-size: 22px;
+  text-align: center;
+}
+
+.search {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.history {
+  display: flex;
+  flex-direction: column;
+}
+
+.recall {
+  /* display: flex; */
+  justify-content: center;
+}
